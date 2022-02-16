@@ -4,7 +4,8 @@
   "description": "Step by step math solutions",
   "main": "index.js",
   "dependencies": {
-    "mathjs": "^10.1.1"
+    "mathjs": "^10.0.2",
+    "mathsteps": "github:fpiou/mathsteps"
   },
   "engines": {
     "node": ">=6.0.0"
